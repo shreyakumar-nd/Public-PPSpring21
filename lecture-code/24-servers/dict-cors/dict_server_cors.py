@@ -1,4 +1,4 @@
-s file starts up the server and connects request/event types with event handlers
+#this file starts up the server and connects request/event types with event handlers
 import routes
 import cherrypy
 from dictionary_controller import DictionaryController #getting our class
